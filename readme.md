@@ -1,11 +1,9 @@
 # Easy Apache 4 profile
+Easy Apache 4 profile that can be install on any cPanel server. It will install PHP modules required by most web software including Symfony, Magento 1 and Magento 2.
 
-This repo contains a custom Easy Apache 4 profile that can be install on any cpanel server. It installs PHP modules required by most web software. Supports Symfony, Magento1 and Magento2.
-
-
-# Installing profile
+# Installing this profile
 ```sh
-wget -O /tmp/XigenEasyApache.json "https://git.xigen.co.uk/xigen/cpanel-ea-profiles/raw/master/XigenEasyApache.json"
+wget -O /tmp/XigenEasyApache.json "https://raw.githubusercontent.com/XigenIO/cPanel-EA-4-Profiles/master/XigenEasyApache.json"
 /usr/local/bin/ea_install_profile --install /tmp/XigenEasyApache.json
 rm -rf /tmp/XigenEasyApache.json
 ```

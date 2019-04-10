@@ -1,4 +1,12 @@
 {
+    "name": "Xigen Easy Apache",
+    "version": "1.0.0",
+    "desc": "Easy Apache 4 profile that can be install on any cPanel server. It will install PHP modules required by most web software including Symfony, Magento 1 and Magento 2.",
+    "tags": [
+        "magento1",
+        "magento2",
+        "php"
+    ],
     "pkgs" : [
         "ea-apache24",
         "ea-apache24-config",
@@ -44,7 +52,6 @@
         "ea-php56-php-cli",
         "ea-php56-php-common",
         "ea-php56-php-curl",
-        "ea-php56-php-devel",
         "ea-php56-php-exif",
         "ea-php56-php-fpm",
         "ea-php56-php-ftp",
@@ -73,7 +80,6 @@
         "ea-php70-php-cli",
         "ea-php70-php-common",
         "ea-php70-php-curl",
-        "ea-php70-php-devel",
         "ea-php70-php-fpm",
         "ea-php70-php-ftp",
         "ea-php70-php-gd",
@@ -98,7 +104,6 @@
         "ea-php71-php-cli",
         "ea-php71-php-common",
         "ea-php71-php-curl",
-        "ea-php71-php-devel",
         "ea-php71-php-exif",
         "ea-php71-php-fileinfo",
         "ea-php71-php-fpm",
@@ -109,7 +114,6 @@
         "ea-php71-php-intl",
         "ea-php71-php-mbstring",
         "ea-php71-php-mcrypt",
-        "ea-php71-php-mysqlnd",
         "ea-php71-php-opcache",
         "ea-php71-php-pdo",
         "ea-php71-php-posix",
@@ -124,7 +128,6 @@
         "ea-php72-php-cli",
         "ea-php72-php-common",
         "ea-php72-php-curl",
-        "ea-php72-php-devel",
         "ea-php72-php-exif",
         "ea-php72-php-fileinfo",
         "ea-php72-php-fpm",
@@ -133,9 +136,7 @@
         "ea-php72-php-iconv",
         "ea-php72-php-imap",
         "ea-php72-php-intl",
-        "ea-php72-php-ldap",
         "ea-php72-php-mbstring",
-        "ea-php72-php-mysqlnd",
         "ea-php72-php-opcache",
         "ea-php72-php-pdo",
         "ea-php72-php-posix",
@@ -144,13 +145,5 @@
         "ea-php72-php-zip",
         "ea-php72-runtime",
         "ea-profiles-cpanel"
-    ],
-    "name": "Xigen Easy Apache",
-    "version": "0.0.1",
-    "desc": "",
-    "tags": [
-        "magento1",
-        "magento2",
-        "php"
     ]
 }
