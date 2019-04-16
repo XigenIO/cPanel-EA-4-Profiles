@@ -121,6 +121,9 @@
         "ea-php71-php-xml",
         "ea-php71-php-zip",
         "ea-php71-runtime",
+        "ea-php71-php-ioncube10",
+        "ea-php71-php-ldap",
+        "ea-php71-php-mysqlnd",
         "ea-php72",
         "ea-php72-libc-client",
         "ea-php72-pear",
@@ -144,6 +147,9 @@
         "ea-php72-php-xml",
         "ea-php72-php-zip",
         "ea-php72-runtime",
+        "ea-php72-php-ioncube10",
+        "ea-php72-php-ldap",
+        "ea-php72-php-mysqlnd",
         "ea-profiles-cpanel"
     ]
 }
