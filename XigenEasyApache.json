@@ -60,7 +60,7 @@
         "ea-php56-php-imap",
         "ea-php56-php-intl",
         "ea-php56-php-ioncube",
-        "ea-php56-php-litespeed",
+        "ea-php56-php-opcache",
         "ea-php56-php-mbstring",
         "ea-php56-php-mcrypt",
         "ea-php56-php-mysqlnd",
